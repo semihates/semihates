@@ -5,9 +5,6 @@ problem framing, UX, and visual design — and ship them by directing AI
 coding tools rather than writing the code by hand. MSGSÜ Industrial
 Product Design graduate.
 
-I'm looking for **remote roles with US-based teams** in product, UX/UI,
-or design engineering.
-
 #### Featured project
 **[ListToFolio](https://listtofolio.com)** — a browser-based tool that turns
 CSV/Excel price lists into print-ready PDF catalogs. Designed and built by me,
