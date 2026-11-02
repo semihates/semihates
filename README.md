@@ -17,6 +17,6 @@ directing AI coding tools, and I ship and deploy what I build. Currently studyin
 for the AWS Certified Cloud Practitioner as I move deeper into cloud.
 
 #### Reach me
-- 🌐 https://listtofolio.com
-- 💼 <LinkedIn [link](https://www.linkedin.com/in/semihates/)>
-- ✉️ <e-posta> semihates001@gmail.com
+- https://listtofolio.com
+- <LinkedIn [link](https://www.linkedin.com/in/semihates/)>
+- <e-posta> semihates001@gmail.com
